@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Barvikha Guia is a unique mobile application designed to offer the ultimate luxury shopping experience. The application is named after the prestigious Barvikha Luxury Village,","photo":"https://iili.io/HvcwAxV.webp"},
+  {"title":"helper mod 2","desc":"A special smartphone app called Barvikha Guia was created to provide the best experience possible when shopping for premium goods. The program bears the illustrious Barvikha Luxury Village's name.","photo":"https://iili.io/HvcwcUg.jpg"},
+  {"title":"tips pack 3","desc":" which is located on the outskirts of Moscow and is known for its high-end designer boutiques, luxury cars showrooms, and gourmet restaurants. ","photo":"https://iili.io/Hvcw5iP.webp"},
+  {"title":"advance mod 4","desc":"which is situated outside of Moscow and renowned for its upscale fashion stores, showrooms for luxury vehicles, and fine dining establishments.","photo":"https://iili.io/HvcwRWB.jpg"},
+  {"title":"how to use this app 5","desc":" The Barvikha Guia application is available for both iOS and Android devices, and it is free to download and use.","photo":"https://iili.io/HvcwYf1.jpg"},
+  {"title":"advice pack 6","desc":"With the Barvikha Guia app, users can browse the latest collections from top fashion designers, view detailed product descriptions and images, and make purchases directly from their mobile devices. ","photo":"https://iili.io/Hvcwa0F.webp"},
+  {"title":"tips mod 7","desc":"The Barvikha Guia app allows users to read in-depth product descriptions and photographs, browse the newest collections from prominent fashion designers, and make purchases right from their smartphones.","photo":"https://iili.io/Hvcw0Ja.webp"},
+  {"title":"helper pack 8","desc":"The application also features a comprehensive guide to the luxury village, including store locations, restaurant menus, and event schedules.","photo":"https://iili.io/Hvcw15J.jpg"}
 
    ]
  
